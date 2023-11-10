@@ -37,14 +37,14 @@
           </ul>
           
 <image
-              src="https://cdn.discordapp.com/attachments/1147273767391858699/1171946568090406912/1699484162334.jpg?ex=655e874b&is=654c124b&hm=a02f1eff3d5d7c5ff21b872f38a80f5ac32b9d75c8b56d3732e63908cc5c08af&"
+              src= "https://cdn.discordapp.com/attachments/1147273767391858699/1172479153459699794/16994841623341.jpg"
               ></img>
           </div>
           <h4 id="What causes this?">Solicitação:</h4>
           <p>Exemplo de UI se comportando ao perguntar se você realmente deseja conceder as permissões necessárias para a utilização do aplicativo.</p>
 
 <image
-              src="https://cdn.discordapp.com/attachments/1147273767391858699/1171946537614577675/1699484162327.jpg?ex=655e8744&is=654c1244&hm=3d18599f8c183ae5917c4e36154e02598945fa700603e0e7f64e6281793f307b&"
+              src= "https://cdn.discordapp.com/attachments/1147273767391858699/1172479192458342440/16994841623271.jpg"
               ></img>
           </div>
    <h4 id="Recursos Adicionais:">Recursos Adicionais:</h4>
