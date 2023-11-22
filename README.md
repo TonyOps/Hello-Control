@@ -1,9 +1,10 @@
 # Hello World como você nunca viu! "Hello Control!"
 
 <h3 id Mobile Development"">Mobile Development</h3>
-<p>No desenvolvimento móvel, o Flutter é amplamente utilizado para criar aplicativos. Neste código, exploraremos a criação de um "Hello World" em Flutter com permissões de administrador. Isso é o projeto base para criar aplicativos com um toque especial: a capacidade de conferir ao aplicativo status de administrador do dispositivo. Lembre-se de que isso concede amplo acesso aos recursos do dispositivo e deve ser usado com cautela.</p>
+<p>Esta aplicação, que parte do conceito básico do 'Hello World' do Flutter, se diferencia ao solicitar imediatamente permissões de administrador ao iniciar no dispositivo móvel. Essa funcionalidade inserida no aplicativo padrão confere a ele um status privilegiado, concedendo acesso direto e avançado aos recursos do dispositivo.</p>
 
-<p>Ao utilizar este código como base, é fundamental assumir a responsabilidade por suas ações. As funcionalidades disponíveis, como a capacidade de alterar senhas, apagar dados e controlar recursos do dispositivo, são extremamente poderosas e, se usadas de maneira inadequada, podem causar sérios danos. Portanto, recomendamos que apenas desenvolvedores experientes, que compreendam plenamente o que estão fazendo, utilizem essas funcionalidades.</p>
+<p>No entanto, essa solicitação automática de permissões de administrador demanda uma compreensão cuidadosa de suas implicações. Embora forneça a oportunidade de realizar ações avançadas e acessar recursos sensíveis do dispositivo, o uso inadequado dessas permissões pode acarretar consequências significativas.</p>
+<p>O aplicativo, ao possuir tal acesso, tem o potencial de realizar alterações críticas, apagar dados essenciais ou até mesmo afetar a estabilidade e segurança do dispositivo, exigindo, portanto, um uso responsável e consciente dessas funcionalidades.</p>
 
 <h3 id=A seguir, algumas ações possíveis com este aplicativo como base:">A seguir, algumas ações possíveis com este aplicativo como base:</h3>
  <ul>
