@@ -38,14 +38,14 @@
           </ul>
           
 <image
-              src= "https://cdn.discordapp.com/attachments/1147273767391858699/1172479153459699794/16994841623341.jpg"
+              src= "https://firebasestorage.googleapis.com/v0/b/antoniel-9832e.appspot.com/o/hello-control%2Fhello-control-img-1.webp?alt=media&token=201954ea-5929-4504-964b-77141e6694ed"
               ></img>
           </div>
           <h4 id="What causes this?">Solicitação:</h4>
           <p>Exemplo de UI se comportando ao perguntar se você realmente deseja conceder as permissões necessárias para a utilização do aplicativo.</p>
 
 <image
-              src= "https://cdn.discordapp.com/attachments/1147273767391858699/1172479192458342440/16994841623271.jpg"
+              src= "https://firebasestorage.googleapis.com/v0/b/antoniel-9832e.appspot.com/o/hello-control%2Fhello-control-img-2.webp?alt=media&token=689e69c5-102c-4dc6-87eb-9db674e9fec0"
               ></img>
           </div>
    <h4 id="Recursos Adicionais:">Recursos Adicionais:</h4>
@@ -53,7 +53,7 @@
             href="https://developer.android.com/guide/topics/admin/device-admin" target="_blank">Documentação Oficial do Android.
             </a></p>
             <image
-              src="https://cdn.discordapp.com/attachments/1147273767391858699/1171951004967784500/Screenshot_2023-11-08_at_17.08.26.png?ex=655e8b6d&is=654c166d&hm=d91191fe985f8d4538701cb49e819d5061a2026d98aade569e566946bb2a076a&"
+              src="https://firebasestorage.googleapis.com/v0/b/antoniel-9832e.appspot.com/o/hello-control%2Fhello-control-img-3.webp?alt=media&token=ae534698-5bed-4782-bac7-2a9e377ca3c7"
               style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;"></image>
               </img>
            <h4 id="Solicitação:">Conclusão:</h4>
